@@ -1,7 +1,7 @@
 Package.describe({
   name: 'ctjp:autoform-bootstrap-switch',
   summary: 'Custom input type "bootstrap-switch" for AutoForm',
-  version: '0.1.0',
+  version: '0.1.1',
   git: 'https://github.com/ctjp/autoform-bootstrap-switch.git'
 });
 
