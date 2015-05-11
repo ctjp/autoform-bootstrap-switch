@@ -15,7 +15,7 @@ Package.onUse(function(api) {
     'templating',
 
     // Additional packages
-    'aldeed:autoform@4.0.6'
+    'aldeed:autoform@4.0.6 || 5.0.0'
   ], 'client');
 
   //== Add files
